@@ -2,6 +2,8 @@
 
 This repository contains a collection of images showcasing different artistic styles generated using the Pony model. Each image is named after the artist's style it represents.
 
+<img width="384" alt="Artist name was blank" src="https://github.com/MzMaXaM/Pony-Artists/blob/c29d5a9c4020aaa1690f52bd205167c9a5ebd6ff/Images/Artist-NoArtist_00001_.png"> <img width="384" alt="Artist name was aaaa_(quad-a)" src="https://github.com/MzMaXaM/Pony-Artists/blob/c29d5a9c4020aaa1690f52bd205167c9a5ebd6ff/Images/Artist-aaaa_(quad-a)_00001_.png">
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Artistic Styles](#artistic-styles)
